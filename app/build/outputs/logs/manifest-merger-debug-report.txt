@@ -1,0 +1,316 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:1:1-43:12
+MERGED from [com.google.android.material:material:1.12.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/4ff2a22ba7dfef17ddc266c6a161b399/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/88e2e0a9380d9e173175d17eb6cbabe5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c323850ad6f9202a90ede14d607588de/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/e27f338fec498cedd5b102b23c83b517/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/4300c7be1e45b0a56d5d7733f5abf4fd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/0df0856e7509473afdab4d6b37ddf202/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/41340398b12618b2f78c06062a9387e1/transformed/jetified-activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/feb110528bf52a7a0625ae9ca6b6a011/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/46fdd02e28c779fff8fcc503881bfe7f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/53fe1259ace3864a764cca78c96868e8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/34d3842bc052dd336082896f9991218e/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/8b66ea453cd3cb28b6913d7273be822d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/54dba244d71730afd3042fb86a1e5347/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/8c891b66c227d9ccaa30b08bb815073d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/5dd4dc7b2bf55961fb3678701f21a785/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/9ce754121e5a303acd83527d6c1fd308/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/1a8d10c90cd25574b4b3c578916eb342/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/afe169081e18b0df7ae1d08461a6a027/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/a83469721c5ea77ffd908d016d2351aa/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/4ce2e851cf123bcb7445d6ef41af5320/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/44778b6f7c8f26a22fdce4d7b79aec03/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/ddaa35329a934799133b61bde14ac91d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/82d32e87558a42d3fe930781bf83e3cc/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/da08a373adf10eebf5d1a290969021af/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/16177e1fbfcacd4246cff87074e87514/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/5fea58a70b4f29402e1f3693f22f8f4a/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/93f53959b2f034a5133c56ddab2cae33/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/b56686e3b03411e1a0360c7be76c82df/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fe81e107a9bcf134f58246a58c864bbc/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/efb9748a80545aea1f9628e3ea49e567/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/5bac5b95022dd63b5c6e4726f1d0526b/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/2ca765bd59d4d95755985c3b2cc69ef1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c6fdec90c1b83f25057687bf5f13f1fe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/6de876ccecf3d154c77294ad4f4f85e2/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/b3ab464fb46440710945cefe7f77bd99/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c2f5dc513830ff64e486c43c9d524e95/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c5a66bfa487dbb1affeddf160d858c42/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/62be131d27ac802fe4d60a337644e9e6/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/b2cf7a7cab7855b11de4a9d8cde76e41/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:4:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:7:5-9:38
+	android:maxSdkVersion
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:9:9-35
+	android:name
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:8:9-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:10:22-77
+uses-feature#android.hardware.camera
+ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:13:5-15:35
+	android:required
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:16:19-67
+uses-sdk
+ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:18:5-20:41
+INJECTED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:18:5-20:41
+INJECTED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.material:material:1.12.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/4ff2a22ba7dfef17ddc266c6a161b399/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/4ff2a22ba7dfef17ddc266c6a161b399/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/88e2e0a9380d9e173175d17eb6cbabe5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/88e2e0a9380d9e173175d17eb6cbabe5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c323850ad6f9202a90ede14d607588de/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c323850ad6f9202a90ede14d607588de/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/e27f338fec498cedd5b102b23c83b517/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/e27f338fec498cedd5b102b23c83b517/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/4300c7be1e45b0a56d5d7733f5abf4fd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/4300c7be1e45b0a56d5d7733f5abf4fd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/0df0856e7509473afdab4d6b37ddf202/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/0df0856e7509473afdab4d6b37ddf202/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/41340398b12618b2f78c06062a9387e1/transformed/jetified-activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/41340398b12618b2f78c06062a9387e1/transformed/jetified-activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/feb110528bf52a7a0625ae9ca6b6a011/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/feb110528bf52a7a0625ae9ca6b6a011/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/46fdd02e28c779fff8fcc503881bfe7f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/46fdd02e28c779fff8fcc503881bfe7f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/53fe1259ace3864a764cca78c96868e8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/53fe1259ace3864a764cca78c96868e8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/34d3842bc052dd336082896f9991218e/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/34d3842bc052dd336082896f9991218e/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/8b66ea453cd3cb28b6913d7273be822d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/8b66ea453cd3cb28b6913d7273be822d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/54dba244d71730afd3042fb86a1e5347/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/54dba244d71730afd3042fb86a1e5347/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/8c891b66c227d9ccaa30b08bb815073d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/8c891b66c227d9ccaa30b08bb815073d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/5dd4dc7b2bf55961fb3678701f21a785/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/5dd4dc7b2bf55961fb3678701f21a785/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/9ce754121e5a303acd83527d6c1fd308/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/9ce754121e5a303acd83527d6c1fd308/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/1a8d10c90cd25574b4b3c578916eb342/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/1a8d10c90cd25574b4b3c578916eb342/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/afe169081e18b0df7ae1d08461a6a027/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/afe169081e18b0df7ae1d08461a6a027/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/a83469721c5ea77ffd908d016d2351aa/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/a83469721c5ea77ffd908d016d2351aa/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/4ce2e851cf123bcb7445d6ef41af5320/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/4ce2e851cf123bcb7445d6ef41af5320/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/44778b6f7c8f26a22fdce4d7b79aec03/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/44778b6f7c8f26a22fdce4d7b79aec03/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/ddaa35329a934799133b61bde14ac91d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/ddaa35329a934799133b61bde14ac91d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/82d32e87558a42d3fe930781bf83e3cc/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/82d32e87558a42d3fe930781bf83e3cc/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/da08a373adf10eebf5d1a290969021af/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/da08a373adf10eebf5d1a290969021af/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/16177e1fbfcacd4246cff87074e87514/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/16177e1fbfcacd4246cff87074e87514/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/5fea58a70b4f29402e1f3693f22f8f4a/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/5fea58a70b4f29402e1f3693f22f8f4a/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/93f53959b2f034a5133c56ddab2cae33/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/93f53959b2f034a5133c56ddab2cae33/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/b56686e3b03411e1a0360c7be76c82df/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/b56686e3b03411e1a0360c7be76c82df/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fe81e107a9bcf134f58246a58c864bbc/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fe81e107a9bcf134f58246a58c864bbc/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/efb9748a80545aea1f9628e3ea49e567/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/efb9748a80545aea1f9628e3ea49e567/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/5bac5b95022dd63b5c6e4726f1d0526b/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/5bac5b95022dd63b5c6e4726f1d0526b/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/2ca765bd59d4d95755985c3b2cc69ef1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/2ca765bd59d4d95755985c3b2cc69ef1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c6fdec90c1b83f25057687bf5f13f1fe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c6fdec90c1b83f25057687bf5f13f1fe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/6de876ccecf3d154c77294ad4f4f85e2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/6de876ccecf3d154c77294ad4f4f85e2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/b3ab464fb46440710945cefe7f77bd99/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/b3ab464fb46440710945cefe7f77bd99/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c2f5dc513830ff64e486c43c9d524e95/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c2f5dc513830ff64e486c43c9d524e95/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c5a66bfa487dbb1affeddf160d858c42/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c5a66bfa487dbb1affeddf160d858c42/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/62be131d27ac802fe4d60a337644e9e6/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/62be131d27ac802fe4d60a337644e9e6/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/b2cf7a7cab7855b11de4a9d8cde76e41/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/b2cf7a7cab7855b11de4a9d8cde76e41/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:20:9-38
+		INJECTED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:19:9-35
+		INJECTED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml
+application
+ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:22:5-41:19
+INJECTED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:22:5-41:19
+MERGED from [com.google.android.material:material:1.12.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/4ff2a22ba7dfef17ddc266c6a161b399/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/4ff2a22ba7dfef17ddc266c6a161b399/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/88e2e0a9380d9e173175d17eb6cbabe5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/88e2e0a9380d9e173175d17eb6cbabe5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/9ce754121e5a303acd83527d6c1fd308/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/9ce754121e5a303acd83527d6c1fd308/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/da08a373adf10eebf5d1a290969021af/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/da08a373adf10eebf5d1a290969021af/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/efb9748a80545aea1f9628e3ea49e567/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/efb9748a80545aea1f9628e3ea49e567/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c6fdec90c1b83f25057687bf5f13f1fe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/c6fdec90c1b83f25057687bf5f13f1fe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:27:9-51
+activity#com.tony.quicksnap.MainActivity
+ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:28:9-37:20
+	android:screenOrientation
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:31:13-49
+	android:exported
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:35:27-74
+activity#com.tony.quicksnap.GalleryActivity
+ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:39:9-40:20
+	android:name
+		ADDED from /storage/emulated/0/DCIM/QuickSnapCam/app/src/main/AndroidManifest.xml:39:19-50
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/9ce754121e5a303acd83527d6c1fd308/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/da08a373adf10eebf5d1a290969021af/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/da08a373adf10eebf5d1a290969021af/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/efb9748a80545aea1f9628e3ea49e567/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/efb9748a80545aea1f9628e3ea49e567/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/9ce754121e5a303acd83527d6c1fd308/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/9ce754121e5a303acd83527d6c1fd308/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/9ce754121e5a303acd83527d6c1fd308/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/9ce754121e5a303acd83527d6c1fd308/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/9ce754121e5a303acd83527d6c1fd308/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/9ce754121e5a303acd83527d6c1fd308/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/9ce754121e5a303acd83527d6c1fd308/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/da08a373adf10eebf5d1a290969021af/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/da08a373adf10eebf5d1a290969021af/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/da08a373adf10eebf5d1a290969021af/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.tony.quicksnap.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.tony.quicksnap.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/72119b4eb3c3dbb469c3c0aa6d79b8ff/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /data/data/com.qamar.ide.java/files/alif/home/.gradle/caches/9.0.0/transforms/fa64fa54eb182ab51596f8c51f3947d6/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

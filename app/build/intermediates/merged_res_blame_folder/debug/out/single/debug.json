@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/drawable_ic_launcher.png.flat",
+        "source": "com.tony.quicksnap.app-main-33:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/layout_item_media.xml.flat",
+        "source": "com.tony.quicksnap.app-main-33:/layout/item_media.xml"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/layout_activity_gallery.xml.flat",
+        "source": "com.tony.quicksnap.app-main-33:/layout/activity_gallery.xml"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.tony.quicksnap.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.tony.quicksnap.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/xml_file_paths.xml.flat",
+        "source": "com.tony.quicksnap.app-main-33:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.tony.quicksnap.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.tony.quicksnap.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tony.quicksnap.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.tony.quicksnap.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.tony.quicksnap.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.tony.quicksnap.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tony.quicksnap.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tony.quicksnap.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.tony.quicksnap.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.tony.quicksnap.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.tony.quicksnap.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.tony.quicksnap.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.tony.quicksnap.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.tony.quicksnap.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]
