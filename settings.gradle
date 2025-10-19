@@ -1,9 +1,17 @@
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+pluginManagement {
     repositories {
-        google()
+        google()               // 👈 Required for Android plugins
+        gradlePluginPortal()
         mavenCentral()
     }
 }
+
+dependencyResolutionManagement {
+    repositories {
+        google()               // 👈 Required for Android dependencies
+        mavenCentral()
+    }
+}
+
 rootProject.name = "QuickSnapCam"
 include ':app'
